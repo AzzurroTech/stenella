@@ -1,6 +1,0 @@
-[submodule "POD"]
-	path = POD
-	url = https://github.com/AzzurroTech/POD.git
-[submodule "SONG"]
-	path = SONG
-	url = https://github.com/AzzurroTech/SONG.git
